@@ -1,4 +1,5 @@
-## Hi there 👋
+Hi, my name is [Daniel](https://www.danielkr.com/) 👋  and this is my page.
+
 
 <!--
 **dmdddd/dmdddd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
